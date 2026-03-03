@@ -189,7 +189,7 @@ market-analyzer/
 
 - GitHub: [@AlickLin](https://github.com/AlickLin)
 - 邮箱: alick.lin@protonmail.com
-- 微信: Alick_Tech
+- 微信: ss66s66e
 
 ## 🙏 致谢
 

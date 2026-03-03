@@ -134,7 +134,7 @@ node index.js --csv sales.csv
 - 技术咨询与培训
 
 **联系方式**：
-- 微信：Alick_Tech
+- 微信：ss66s66e
 - 邮箱：alick.lin@protonmail.com
 - GitHub：AlickLin
 
