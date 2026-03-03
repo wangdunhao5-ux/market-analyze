@@ -19,12 +19,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlickLin/market-analyzer.git"
+    "url": "https://github.com/wangdunhao5-ux/market-analyze.git"
   },
   "bugs": {
-    "url": "https://github.com/AlickLin/market-analyzer/issues"
+    "url": "https://github.com/wangdunhao5-ux/market-analyze/issues"
   },
-  "homepage": "https://github.com/AlickLin/market-analyzer#readme",
+  "homepage": "https://github.com/wangdunhao5-ux/market-analyze#readme",
   "engines": {
     "node": ">=12.0.0"
   }

@@ -19,7 +19,7 @@
 
 ### 安装
 ```bash
-git clone https://github.com/AlickLin/market-analyzer.git
+git clone https://github.com/wangdunhao5-ux/market-analyze.git
 cd market-analyzer
 ```
 
@@ -187,7 +187,7 @@ market-analyzer/
 
 **林凯 (Alick Lin)** - 数据分析师 & 工具开发者
 
-- GitHub: [@AlickLin](https://github.com/AlickLin)
+- GitHub: [@wangdunhao5-ux](https://github.com/wangdunhao5-ux)
 - 邮箱: alick.lin@protonmail.com
 - 微信: ss66s66e
 
