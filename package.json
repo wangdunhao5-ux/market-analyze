@@ -1,0 +1,31 @@
+{
+  "name": "market-analyzer",
+  "version": "1.0.0",
+  "description": "A lightweight market analysis tool for small businesses",
+  "main": "simple_analyzer.js",
+  "scripts": {
+    "start": "node simple_analyzer.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "generate-sample": "node -e \"const Analyzer = require('./simple_analyzer.js'); const a = new Analyzer(); a.generateSampleData(); a.generateReport(); console.log('Sample report generated!');\""
+  },
+  "keywords": [
+    "market-analysis",
+    "data-analysis",
+    "business-intelligence",
+    "automation",
+    "reporting"
+  ],
+  "author": "Alick Lin <alick.lin@protonmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlickLin/market-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlickLin/market-analyzer/issues"
+  },
+  "homepage": "https://github.com/AlickLin/market-analyzer#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
